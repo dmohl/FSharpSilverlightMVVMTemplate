@@ -25,5 +25,5 @@ type ExpenseItHomeViewModel(expenseReportServiceFacade : ExpenseReportServiceFac
             selectedExpenseReport <- value
             x.OnPropertyChanged "SelectedExpenseReport"
     member x.ApproveExpenseReport = 
-        MessageBox.Show(sprintf "Expense report approved for %s" x.SelectedExpenseReport.Name) |> ignore
+        "Do something to the expense report" |> ignore
 
