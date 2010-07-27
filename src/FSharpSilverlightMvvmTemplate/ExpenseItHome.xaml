@@ -10,9 +10,6 @@
     <UserControl.DataContext>
         <ViewModel:ExpenseItHomeViewModel></ViewModel:ExpenseItHomeViewModel>
     </UserControl.DataContext>
-    <UserControl.Resources>
-        <ResourceDictionary Source="ApplicationResources.xaml" />
-    </UserControl.Resources>
     <Grid Margin="10,0,10,10" VerticalAlignment="Stretch">
 
         <Grid.Resources>
@@ -45,7 +42,7 @@
             <RowDefinition Height="auto"/>
         </Grid.RowDefinitions>
         <!-- People list -->
-        <sdk:Label Grid.Row="0" Grid.ColumnSpan="2" Style="{StaticResource headerTextStyle}" >
+        <sdk:Label Foreground="#0066cc" VerticalAlignment="Center" Grid.Row="0" Grid.ColumnSpan="2" >
             View Expense Report
         </sdk:Label>
         <Grid Margin="10" Grid.Column="0" Grid.Row="1" VerticalAlignment="Top">
@@ -56,20 +53,19 @@
                 <RowDefinition Height="Auto"/>
             </Grid.RowDefinitions>
 
-            <Border Grid.Row="1" Style="{StaticResource listHeaderStyle}">
-                <sdk:Label Style="{StaticResource listHeaderTextStyle}">Names</sdk:Label>
+            <Border Height="35" Padding="5" Background="#4E87D4" Grid.Row="1">
+                <sdk:Label Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Left">Names</sdk:Label>
             </Border>
 
             <ListBox Name="peopleListBox" Grid.Row="2" 
                  ItemsSource="{Binding Path=ExpenseReports}"
                  ItemTemplate="{StaticResource nameItemTemplate}"
-                 SelectedItem="{Binding Path=SelectedExpenseReport,Mode=TwoWay}"
-                 IsSynchronizedWithCurrentItem="True">
+                 SelectedItem="{Binding Path=SelectedExpenseReport,Mode=TwoWay}">
             </ListBox>
 
             <!-- View report button -->
         </Grid>
-        <Grid Margin="10" Grid.Column="1" Grid.Row="1" DataContext="{Binding SelectedExpenseReport}" VerticalAlignment="Top">
+        <Grid Margin="10" Height="Auto" Grid.Column="1" Grid.Row="1" DataContext="{Binding SelectedExpenseReport}" VerticalAlignment="Top">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="57*" />
                 <ColumnDefinition Width="125*" />
@@ -82,17 +78,17 @@
             </Grid.RowDefinitions>
             <!-- Name -->
             <StackPanel Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="0" Orientation="Horizontal">
-                <sdk:Label VerticalAlignment="Top" HorizontalAlignment="Left" Style="{StaticResource labelStyle}">Name:</sdk:Label>
-                <sdk:Label VerticalAlignment="Top" HorizontalAlignment="Left" Style="{StaticResource labelStyle}" Content="{Binding Path=Name}"></sdk:Label>
+                <sdk:Label FontWeight="Bold" Margin="0,0,0,5" VerticalAlignment="Top" HorizontalAlignment="Left">Name:</sdk:Label>
+                <sdk:Label FontWeight="Bold" Margin="0,0,0,5" VerticalAlignment="Top" HorizontalAlignment="Left" Content="{Binding Path=Name}"></sdk:Label>
             </StackPanel>
             <!-- Department -->
             <StackPanel Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="1" Orientation="Horizontal">
-                <sdk:Label VerticalAlignment="Top" HorizontalAlignment="Left" Style="{StaticResource labelStyle}">Department:</sdk:Label>
-                <sdk:Label VerticalAlignment="Top" HorizontalAlignment="Left" Style="{StaticResource labelStyle}" Content="{Binding Path=Department}"></sdk:Label>
+                <sdk:Label FontWeight="Bold" Margin="0,0,0,5" VerticalAlignment="Top" HorizontalAlignment="Left">Department:</sdk:Label>
+                <sdk:Label FontWeight="Bold" Margin="0,0,0,5" VerticalAlignment="Top" HorizontalAlignment="Left" Content="{Binding Path=Department}"></sdk:Label>
             </StackPanel>
             <Grid Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="2" VerticalAlignment="Top" HorizontalAlignment="Left">
                 <!-- Expense type and Amount table -->
-                <sdk:DataGrid ItemsSource="{Binding Path=ExpenseLineItems}" ColumnHeaderStyle="{StaticResource columnHeaderStyle}" AutoGenerateColumns="False" RowHeaderWidth="0" Margin="0,0,-139,0">
+                <sdk:DataGrid Height="35" Padding="5" Background="#4E87D4" Foreground="White" ItemsSource="{Binding Path=ExpenseLineItems}" AutoGenerateColumns="False" Margin="0,0,-139,0">
                     <sdk:DataGrid.Columns>
                         <sdk:DataGridTextColumn Header="ExpenseType" Binding="{Binding Path=ExpenseType}"  />
                         <sdk:DataGridTextColumn Header="Amount" Binding="{Binding Path=ExpenseAmount}" />
@@ -100,6 +96,6 @@
                 </sdk:DataGrid>
             </Grid>
         </Grid>
-        <Button Grid.Row="2" Command="{Binding ApproveExpenseReportCommand}" Style="{StaticResource buttonStyle}" Grid.Column="1" Margin="0,10,53,0">Approve</Button>
+        <Button Width="125" Height="25" HorizontalAlignment="Left" Grid.Row="2" Command="{Binding ApproveExpenseReportCommand}" Grid.Column="1" Margin="0,10,53,0">Approve</Button>
     </Grid>
 </UserControl>

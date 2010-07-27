@@ -3,6 +3,5 @@
              x:Class="FSharpSilverlightMvvmTemplate.App"
              >
     <Application.Resources>
-        
     </Application.Resources>
 </Application>
