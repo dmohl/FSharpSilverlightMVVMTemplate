@@ -1,0 +1,12 @@
+﻿<xapCache source="C:\git\FSharpSilverlightMvvmTemplate\src\FSharpSilverlightMvvmTemplate\Bin\Debug\FSharpSilverlightMvvmTemplate.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="7/26/2010 11:55:37 PM">
+  <file source="C:\git\FSharpSilverlightMvvmTemplate\src\FSharpSilverlightMvvmTemplate\obj\Debug\FSharpSilverlightMvvmTemplate.dll" archivePath="FSharpSilverlightMvvmTemplate.dll" lastWriteTime="7/26/2010 11:55:33 PM" />
+  <file source="C:\git\FSharpSilverlightMvvmTemplate\src\FSharpSilverlightMvvmTemplate.Model\bin\Debug\FSharpSilverlightMvvmTemplate.Model.dll" archivePath="FSharpSilverlightMvvmTemplate.Model.dll" lastWriteTime="7/26/2010 10:59:53 PM" />
+  <file source="C:\git\FSharpSilverlightMvvmTemplate\src\FSharpSilverlightMvvmTemplate.ViewModel\bin\Debug\FSharpSilverlightMvvmTemplate.ViewModel.dll" archivePath="FSharpSilverlightMvvmTemplate.ViewModel.dll" lastWriteTime="7/26/2010 11:33:58 PM" />
+  <file source="C:\Program Files\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.ComponentModel.DataAnnotations.dll" archivePath="System.ComponentModel.DataAnnotations.dll" lastWriteTime="4/1/2010 12:46:10 AM" />
+  <file source="C:\Program Files\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Controls.Data.dll" archivePath="System.Windows.Controls.Data.dll" lastWriteTime="4/1/2010 12:46:10 AM" />
+  <file source="C:\Program Files\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Controls.Data.Input.dll" archivePath="System.Windows.Controls.Data.Input.dll" lastWriteTime="4/1/2010 12:46:10 AM" />
+  <file source="C:\Program Files\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Data.dll" archivePath="System.Windows.Data.dll" lastWriteTime="4/1/2010 12:46:10 AM" />
+  <file source="C:\git\FSharpSilverlightMvvmTemplate\src\FSharpSilverlightMvvmTemplate.Model\bin\Debug\FSharp.Core.dll" archivePath="FSharp.Core.dll" lastWriteTime="6/18/2010 1:41:28 PM" />
+  <file source="C:\git\FSharpSilverlightMvvmTemplate\src\FSharpSilverlightMvvmTemplate.ViewModel\bin\Debug\FSharpSilverlightMvvmTemplate.RemoteFacade.dll" archivePath="FSharpSilverlightMvvmTemplate.RemoteFacade.dll" lastWriteTime="7/26/2010 11:00:01 PM" />
+  <file source="C:\git\FSharpSilverlightMvvmTemplate\src\FSharpSilverlightMvvmTemplate\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="7/26/2010 11:20:52 PM" />
+</xapCache>
