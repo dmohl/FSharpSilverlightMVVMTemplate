@@ -1,0 +1,28 @@
+<VSTemplate Version="2.0.0" Type="ProjectGroup"
+    xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+    <TemplateData>
+        <Name>F# Silverlight MVVM Application</Name>
+        <Description>F# Silverlight MVVM Application</Description>
+        <Icon>__TemplateIcon.ico</Icon>
+        <ProjectType>FSharp</ProjectType>
+    </TemplateData>
+    <TemplateContent>
+        <ProjectCollection>
+            <ProjectTemplateLink ProjectName="FSharpsilverlightMvvmTemplate">
+                src\FSharpsilverlightMvvmTemplate\MyTemplate.vstemplate
+            </ProjectTemplateLink>
+            <ProjectTemplateLink ProjectName="FSharpsilverlightMvvmTemplate.Web">
+                src\FSharpsilverlightMvvmTemplate.Web\MyTemplate.vstemplate
+            </ProjectTemplateLink>
+            <ProjectTemplateLink ProjectName="FSharpsilverlightMvvmTemplate.RemoteFacade">
+                src\FSharpsilverlightMvvmTemplate.RemoteFacade\MyTemplate.vstemplate
+            </ProjectTemplateLink>
+            <ProjectTemplateLink ProjectName="FSharpsilverlightMvvmTemplate.Model">
+                src\FSharpsilverlightMvvmTemplate.Model\MyTemplate.vstemplate
+            </ProjectTemplateLink>
+            <ProjectTemplateLink ProjectName="FSharpsilverlightMvvmTemplate.ViewModel">
+                src\FSharpsilverlightMvvmTemplate.ViewModel\MyTemplate.vstemplate
+            </ProjectTemplateLink>
+        </ProjectCollection>
+    </TemplateContent>
+</VSTemplate>

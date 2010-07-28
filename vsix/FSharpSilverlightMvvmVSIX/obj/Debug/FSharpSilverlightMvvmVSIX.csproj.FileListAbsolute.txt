@@ -1,0 +1,4 @@
+C:\git\FSharpSilverlightMvvmTemplate\vsix\FSharpSilverlightMvvmVSIX\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpSilverlightMvvmTemplate\vsix\FSharpSilverlightMvvmVSIX\obj\Debug\FSharpSilverlightMvvmVSIX.dll
+C:\git\FSharpSilverlightMvvmTemplate\vsix\FSharpSilverlightMvvmVSIX\obj\Debug\FSharpSilverlightMvvmVSIX.pdb
+C:\git\FSharpSilverlightMvvmTemplate\vsix\FSharpSilverlightMvvmVSIX\obj\Debug\extension.vsixmanifest
