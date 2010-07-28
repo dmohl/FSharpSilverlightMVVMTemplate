@@ -41,6 +41,7 @@
   <ItemGroup>
     <Content Include="ProjectTemplates\FSharpSilverlightMvvmTemplate.zip">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>

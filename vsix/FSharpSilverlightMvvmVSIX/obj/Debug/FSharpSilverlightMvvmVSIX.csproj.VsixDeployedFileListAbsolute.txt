@@ -1,0 +1,6 @@
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\FSharpSilverlightMvvmVSIX\1.0\\extension.vsixmanifest
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\FSharpSilverlightMvvmVSIX\1.0\ProjectTemplates\\FSharpSilverlightMvvmTemplate.zip
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Silverligh tMvvm\1.0\\extension.vsixmanifest
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Silverligh tMvvm\1.0\ProjectTemplates\\FSharpSilverlightMvvmTemplate.zip
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Silverlight Mvvm Multi-Project Template\1.0\\extension.vsixmanifest
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Silverlight Mvvm Multi-Project Template\1.0\ProjectTemplates\\FSharpSilverlightMvvmTemplate.zip

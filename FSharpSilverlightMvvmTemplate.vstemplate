@@ -8,20 +8,20 @@
     </TemplateData>
     <TemplateContent>
         <ProjectCollection>
+            <ProjectTemplateLink ProjectName="FSharpsilverlightMvvmTemplate.Model">
+                src\FSharpsilverlightMvvmTemplate.Model\MyTemplate.vstemplate
+            </ProjectTemplateLink>
+            <ProjectTemplateLink ProjectName="FSharpsilverlightMvvmTemplate.RemoteFacade">
+                src\FSharpsilverlightMvvmTemplate.RemoteFacade\MyTemplate.vstemplate
+            </ProjectTemplateLink>
+            <ProjectTemplateLink ProjectName="FSharpsilverlightMvvmTemplate.ViewModel">
+                src\FSharpsilverlightMvvmTemplate.ViewModel\MyTemplate.vstemplate
+            </ProjectTemplateLink>
             <ProjectTemplateLink ProjectName="FSharpsilverlightMvvmTemplate">
                 src\FSharpsilverlightMvvmTemplate\MyTemplate.vstemplate
             </ProjectTemplateLink>
             <ProjectTemplateLink ProjectName="FSharpsilverlightMvvmTemplate.Web">
                 src\FSharpsilverlightMvvmTemplate.Web\MyTemplate.vstemplate
-            </ProjectTemplateLink>
-            <ProjectTemplateLink ProjectName="FSharpsilverlightMvvmTemplate.RemoteFacade">
-                src\FSharpsilverlightMvvmTemplate.RemoteFacade\MyTemplate.vstemplate
-            </ProjectTemplateLink>
-            <ProjectTemplateLink ProjectName="FSharpsilverlightMvvmTemplate.Model">
-                src\FSharpsilverlightMvvmTemplate.Model\MyTemplate.vstemplate
-            </ProjectTemplateLink>
-            <ProjectTemplateLink ProjectName="FSharpsilverlightMvvmTemplate.ViewModel">
-                src\FSharpsilverlightMvvmTemplate.ViewModel\MyTemplate.vstemplate
             </ProjectTemplateLink>
         </ProjectCollection>
     </TemplateContent>
