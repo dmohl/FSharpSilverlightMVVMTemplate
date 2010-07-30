@@ -1,0 +1,17 @@
+C:\git\FSharpSilverlightMvvmTemplate\src\Model\bin\Release\Model.XML
+C:\git\FSharpSilverlightMvvmTemplate\src\Model\bin\Release\Model.dll
+C:\git\FSharpSilverlightMvvmTemplate\src\Model\bin\Release\Model.pdb
+C:\git\FSharpSilverlightMvvmTemplate\src\Model\bin\Release\FSharp.Core.dll
+C:\git\FSharpSilverlightMvvmTemplate\src\Model\bin\Release\FSharp.Core.xml
+C:\git\FSharpSilverlightMvvmTemplate\src\Model\bin\Release\de\FSharp.Core.resources.dll
+C:\git\FSharpSilverlightMvvmTemplate\src\Model\bin\Release\es\FSharp.Core.resources.dll
+C:\git\FSharpSilverlightMvvmTemplate\src\Model\bin\Release\fr\FSharp.Core.resources.dll
+C:\git\FSharpSilverlightMvvmTemplate\src\Model\bin\Release\it\FSharp.Core.resources.dll
+C:\git\FSharpSilverlightMvvmTemplate\src\Model\bin\Release\ja\FSharp.Core.resources.dll
+C:\git\FSharpSilverlightMvvmTemplate\src\Model\bin\Release\ko\FSharp.Core.resources.dll
+C:\git\FSharpSilverlightMvvmTemplate\src\Model\bin\Release\ru\FSharp.Core.resources.dll
+C:\git\FSharpSilverlightMvvmTemplate\src\Model\bin\Release\zh-Hans\FSharp.Core.resources.dll
+C:\git\FSharpSilverlightMvvmTemplate\src\Model\bin\Release\zh-Hant\FSharp.Core.resources.dll
+C:\git\FSharpSilverlightMvvmTemplate\src\Model\obj\Release\ResolveAssemblyReference.cache
+C:\git\FSharpSilverlightMvvmTemplate\src\Model\obj\Release\Model.dll
+C:\git\FSharpSilverlightMvvmTemplate\src\Model\obj\Release\Model.pdb

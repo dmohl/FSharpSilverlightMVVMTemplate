@@ -1,17 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSharpSilverlightMvvmTemplate", "src\FSharpSilverlightMvvmTemplate\FSharpSilverlightMvvmTemplate.csproj", "{E09FD710-C23E-42A5-8131-E6BBD2871297}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View", "src\View\View.csproj", "{E09FD710-C23E-42A5-8131-E6BBD2871297}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSharpSilverlightMvvmTemplate.Web", "src\FSharpSilverlightMvvmTemplate.Web\FSharpSilverlightMvvmTemplate.Web.csproj", "{83BC67AB-9E90-434D-8387-A4F9BDDA4E7F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "src\Web\Web.csproj", "{83BC67AB-9E90-434D-8387-A4F9BDDA4E7F}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpSilverlightMvvmTemplate.ViewModel", "src\FSharpSilverlightMvvmTemplate.ViewModel\FSharpSilverlightMvvmTemplate.ViewModel.fsproj", "{DFD11A82-6FC3-4D9E-83F3-D06E108DB27F}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ViewModel", "src\ViewModel\ViewModel.fsproj", "{DFD11A82-6FC3-4D9E-83F3-D06E108DB27F}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpSilverlightMvvmTemplate.Model", "src\FSharpSilverlightMvvmTemplate.Model\FSharpSilverlightMvvmTemplate.Model.fsproj", "{352BB3AC-D8B5-44ED-8613-8E06FD62ABF3}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Model", "src\Model\Model.fsproj", "{352BB3AC-D8B5-44ED-8613-8E06FD62ABF3}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpSilverlightMvvmTemplate.RemoteFacade", "src\FSharpSilverlightMvvmTemplate.RemoteFacade\FSharpSilverlightMvvmTemplate.RemoteFacade.fsproj", "{2C763E0A-1226-4B09-B42B-E04B8ADCD333}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RemoteFacade", "src\RemoteFacade\RemoteFacade.fsproj", "{2C763E0A-1226-4B09-B42B-E04B8ADCD333}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSharpSilverlightMvvmVSIX", "vsix\FSharpSilverlightMvvmVSIX\FSharpSilverlightMvvmVSIX.csproj", "{C92CF4BB-E658-43CB-9920-C9F58E026499}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSharpSLMvvm", "VSIX\FSharpSLMvvm\FSharpSLMvvm.csproj", "{7F01383A-AC32-472E-9223-AAC24E0B5384}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,10 +39,10 @@ Global
 		{2C763E0A-1226-4B09-B42B-E04B8ADCD333}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C763E0A-1226-4B09-B42B-E04B8ADCD333}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C763E0A-1226-4B09-B42B-E04B8ADCD333}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C92CF4BB-E658-43CB-9920-C9F58E026499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C92CF4BB-E658-43CB-9920-C9F58E026499}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C92CF4BB-E658-43CB-9920-C9F58E026499}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C92CF4BB-E658-43CB-9920-C9F58E026499}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F01383A-AC32-472E-9223-AAC24E0B5384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F01383A-AC32-472E-9223-AAC24E0B5384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F01383A-AC32-472E-9223-AAC24E0B5384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F01383A-AC32-472E-9223-AAC24E0B5384}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

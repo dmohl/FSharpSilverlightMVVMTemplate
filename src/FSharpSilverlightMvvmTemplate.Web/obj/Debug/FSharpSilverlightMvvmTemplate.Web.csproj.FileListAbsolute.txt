@@ -1,5 +1,0 @@
-C:\git\FSharpSilverlightMvvmTemplate\src\FSharpSilverlightMvvmTemplate.Web\bin\FSharpSilverlightMvvmTemplate.Web.dll
-C:\git\FSharpSilverlightMvvmTemplate\src\FSharpSilverlightMvvmTemplate.Web\bin\FSharpSilverlightMvvmTemplate.Web.pdb
-C:\git\FSharpSilverlightMvvmTemplate\src\FSharpSilverlightMvvmTemplate.Web\obj\Debug\ResolveAssemblyReference.cache
-C:\git\FSharpSilverlightMvvmTemplate\src\FSharpSilverlightMvvmTemplate.Web\obj\Debug\FSharpSilverlightMvvmTemplate.Web.dll
-C:\git\FSharpSilverlightMvvmTemplate\src\FSharpSilverlightMvvmTemplate.Web\obj\Debug\FSharpSilverlightMvvmTemplate.Web.pdb

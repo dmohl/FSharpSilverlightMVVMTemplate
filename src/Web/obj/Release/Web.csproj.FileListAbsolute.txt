@@ -1,0 +1,5 @@
+C:\git\FSharpSilverlightMvvmTemplate\src\Web\bin\Web.dll
+C:\git\FSharpSilverlightMvvmTemplate\src\Web\bin\Web.pdb
+C:\git\FSharpSilverlightMvvmTemplate\src\Web\obj\Release\ResolveAssemblyReference.cache
+C:\git\FSharpSilverlightMvvmTemplate\src\Web\obj\Release\Web.dll
+C:\git\FSharpSilverlightMvvmTemplate\src\Web\obj\Release\Web.pdb

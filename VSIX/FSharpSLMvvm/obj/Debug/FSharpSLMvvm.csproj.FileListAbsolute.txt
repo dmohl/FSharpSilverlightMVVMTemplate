@@ -1,0 +1,7 @@
+C:\git\FSharpSilverlightMvvmTemplate\VSIX\FSharpSLMvvm\bin\Debug\FSharpSLMvvm.vsix
+C:\git\FSharpSilverlightMvvmTemplate\VSIX\FSharpSLMvvm\bin\Debug\extension.vsixmanifest
+C:\git\FSharpSilverlightMvvmTemplate\VSIX\FSharpSLMvvm\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpSilverlightMvvmTemplate\VSIX\FSharpSLMvvm\obj\Debug\FSharpSLMvvm.dll
+C:\git\FSharpSilverlightMvvmTemplate\VSIX\FSharpSLMvvm\obj\Debug\FSharpSLMvvm.pdb
+C:\git\FSharpSilverlightMvvmTemplate\VSIX\FSharpSLMvvm\obj\Debug\extension.vsixmanifest
+C:\git\FSharpSilverlightMvvmTemplate\VSIX\FSharpSLMvvm\bin\Debug\ProjectTemplates\FSharpSLMvvm.zip
