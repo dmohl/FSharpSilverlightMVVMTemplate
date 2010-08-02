@@ -4,4 +4,6 @@ C:\git\FSharpSilverlightMvvmTemplate\VSIX\FSharpSLMvvm\obj\Debug\ResolveAssembly
 C:\git\FSharpSilverlightMvvmTemplate\VSIX\FSharpSLMvvm\obj\Debug\FSharpSLMvvm.dll
 C:\git\FSharpSilverlightMvvmTemplate\VSIX\FSharpSLMvvm\obj\Debug\FSharpSLMvvm.pdb
 C:\git\FSharpSilverlightMvvmTemplate\VSIX\FSharpSLMvvm\obj\Debug\extension.vsixmanifest
-C:\git\FSharpSilverlightMvvmTemplate\VSIX\FSharpSLMvvm\bin\Debug\ProjectTemplates\FSharpSLMvvm.zip
+C:\git\FSharpSilverlightMvvmTemplate\VSIX\FSharpSLMvvm\bin\Debug\FSharpSilverlightMvvmTemplateScreenShot.png
+C:\git\FSharpSilverlightMvvmTemplate\VSIX\FSharpSLMvvm\bin\Debug\MicrosoftPublicLicense.txt
+C:\git\FSharpSilverlightMvvmTemplate\VSIX\FSharpSLMvvm\bin\Debug\ProjectTemplates\Silverlight\FSharpSLMvvm.zip

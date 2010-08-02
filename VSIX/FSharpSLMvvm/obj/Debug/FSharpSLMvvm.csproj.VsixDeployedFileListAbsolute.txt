@@ -1,3 +1,7 @@
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\FSharpSLMvvm\1.0\\extension.vsixmanifest
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\FSharpSLMvvm\1.0\\extension.vsixmanifest
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\FSharpSLMvvm\1.0\ProjectTemplates\\FSharpSLMvvm.zip
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Silverlight Application (MVVM)\1.1\\extension.vsixmanifest
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Silverlight Application (MVVM)\1.1\\FSharpSilverlightMvvmTemplateScreenShot.png
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Silverlight Application (MVVM)\1.1\\MicrosoftPublicLicense.txt
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Silverlight Application (MVVM)\1.1\ProjectTemplates\Silverlight\\FSharpSLMvvm.zip

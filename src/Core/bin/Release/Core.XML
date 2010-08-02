@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <doc>
-<assembly><name>ViewModel</name></assembly>
+<assembly><name>Core</name></assembly>
 <members>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:FSharpSilverlightMvvmTemplate.RemoteFacade">
+
+</member>
 <member name="">
 
 </member>

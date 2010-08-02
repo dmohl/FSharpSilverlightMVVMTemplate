@@ -102,13 +102,9 @@
     <None Include="Properties\AppManifest.xml" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Model\Model.fsproj">
-      <Project>{352BB3AC-D8B5-44ED-8613-8E06FD62ABF3}</Project>
-      <Name>Model</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\ViewModel\ViewModel.fsproj">
-      <Project>{DFD11A82-6FC3-4D9E-83F3-D06E108DB27F}</Project>
-      <Name>ViewModel</Name>
+    <ProjectReference Include="..\Core\Core.fsproj">
+      <Project>{BDD75D20-F328-4316-9D71-15477CDD6DBB}</Project>
+      <Name>Core</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
@@ -129,4 +125,7 @@
       </FlavorProperties>
     </VisualStudio>
   </ProjectExtensions>
+  <PropertyGroup>
+    <PostBuildEvent>copy /y "$(ProjectDir)bin\$(ConfigurationName)\View.xap" "$(ProjectDir)..\Web\ClientBin\View.xap"</PostBuildEvent>
+  </PropertyGroup>
 </Project>
