@@ -3,11 +3,14 @@ C:\git\FSharpSilverlightMvvmTemplate\src\View\Bin\Release\View.pdb
 C:\git\FSharpSilverlightMvvmTemplate\src\View\Bin\Release\AppManifest.xaml
 C:\git\FSharpSilverlightMvvmTemplate\src\View\Bin\Release\View.xap
 C:\git\FSharpSilverlightMvvmTemplate\src\View\Bin\Release\FSharpSilverlightMvvmTemplateTestPage.html
+C:\git\FSharpSilverlightMvvmTemplate\src\View\Bin\Release\Core.dll
 C:\git\FSharpSilverlightMvvmTemplate\src\View\Bin\Release\System.ComponentModel.DataAnnotations.dll
 C:\git\FSharpSilverlightMvvmTemplate\src\View\Bin\Release\System.Windows.Controls.Data.dll
 C:\git\FSharpSilverlightMvvmTemplate\src\View\Bin\Release\System.Windows.Controls.Data.Input.dll
 C:\git\FSharpSilverlightMvvmTemplate\src\View\Bin\Release\System.Windows.Data.dll
 C:\git\FSharpSilverlightMvvmTemplate\src\View\Bin\Release\FSharp.Core.dll
+C:\git\FSharpSilverlightMvvmTemplate\src\View\Bin\Release\Core.pdb
+C:\git\FSharpSilverlightMvvmTemplate\src\View\Bin\Release\Core.xml
 C:\git\FSharpSilverlightMvvmTemplate\src\View\Bin\Release\System.ComponentModel.DataAnnotations.xml
 C:\git\FSharpSilverlightMvvmTemplate\src\View\Bin\Release\System.Windows.Controls.Data.xml
 C:\git\FSharpSilverlightMvvmTemplate\src\View\Bin\Release\System.Windows.Controls.Data.Input.xml
@@ -159,6 +162,3 @@ C:\git\FSharpSilverlightMvvmTemplate\src\View\obj\Release\View.g.resources
 C:\git\FSharpSilverlightMvvmTemplate\src\View\obj\Release\View.dll
 C:\git\FSharpSilverlightMvvmTemplate\src\View\obj\Release\View.pdb
 C:\git\FSharpSilverlightMvvmTemplate\src\View\obj\Release\XapCacheFile.xml
-C:\git\FSharpSilverlightMvvmTemplate\src\View\Bin\Release\Core.dll
-C:\git\FSharpSilverlightMvvmTemplate\src\View\Bin\Release\Core.pdb
-C:\git\FSharpSilverlightMvvmTemplate\src\View\Bin\Release\Core.xml

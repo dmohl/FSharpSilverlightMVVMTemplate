@@ -1,4 +1,3 @@
-C:\git\FSharpSilverlightMvvmTemplate\src\Core\obj\Release\ResolveAssemblyReference.cache
 C:\git\FSharpSilverlightMvvmTemplate\src\Core\bin\Release\Core.XML
 C:\git\FSharpSilverlightMvvmTemplate\src\Core\bin\Release\Core.dll
 C:\git\FSharpSilverlightMvvmTemplate\src\Core\bin\Release\Core.pdb
@@ -13,5 +12,6 @@ C:\git\FSharpSilverlightMvvmTemplate\src\Core\bin\Release\ko\FSharp.Core.resourc
 C:\git\FSharpSilverlightMvvmTemplate\src\Core\bin\Release\ru\FSharp.Core.resources.dll
 C:\git\FSharpSilverlightMvvmTemplate\src\Core\bin\Release\zh-Hans\FSharp.Core.resources.dll
 C:\git\FSharpSilverlightMvvmTemplate\src\Core\bin\Release\zh-Hant\FSharp.Core.resources.dll
+C:\git\FSharpSilverlightMvvmTemplate\src\Core\obj\Release\ResolveAssemblyReference.cache
 C:\git\FSharpSilverlightMvvmTemplate\src\Core\obj\Release\Core.dll
 C:\git\FSharpSilverlightMvvmTemplate\src\Core\obj\Release\Core.pdb

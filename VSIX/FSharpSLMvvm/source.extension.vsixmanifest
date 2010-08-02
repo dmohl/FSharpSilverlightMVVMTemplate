@@ -8,7 +8,7 @@
     <Locale>1033</Locale>
     <MoreInfoUrl>http://bloggemdano.blogspot.com/2010/07/f-silverlight-mvvm-multi-project.html</MoreInfoUrl>
     <License>MicrosoftPublicLicense.txt</License>
-    <PreviewImage>FSharpSilverlightScreenShot.png</PreviewImage>
+    <PreviewImage>FSharpSilverlight.png</PreviewImage>
     <SupportedProducts>
       <VisualStudio Version="10.0">
         <Edition>Ultimate</Edition>

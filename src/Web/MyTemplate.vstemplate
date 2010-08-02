@@ -18,8 +18,8 @@
       <Folder Name="ClientBin" TargetFolderName="ClientBin">
         <ProjectItem ReplaceParameters="false" TargetFileName="View.xap">View.xap</ProjectItem>
       </Folder>
-      <ProjectItem ReplaceParameters="true" TargetFileName="FSharpSilverlightMvvmTemplateTestPage.aspx">FSharpSilverlightMvvmTemplateTestPage.aspx</ProjectItem>
-      <ProjectItem ReplaceParameters="true" TargetFileName="FSharpSilverlightMvvmTemplateTestPage.html">FSharpSilverlightMvvmTemplateTestPage.html</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="TestPage.aspx">TestPage.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="TestPage.html">TestPage.html</ProjectItem>
       <Folder Name="Properties" TargetFolderName="Properties">
         <ProjectItem ReplaceParameters="true" TargetFileName="AssemblyInfo.cs">AssemblyInfo.cs</ProjectItem>
       </Folder>

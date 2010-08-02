@@ -1,0 +1,32 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>Core</Name>
+    <Description>F# Silverlight Core</Description>
+    <ProjectType>FSharp</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>Core</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="Core.fsproj" File="Core.fsproj" ReplaceParameters="true">
+      <Folder Name="Model" TargetFolderName="Model">
+        <ProjectItem ReplaceParameters="false" TargetFileName="Expense.fs">Expense.fs</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="ExpenseReport.fs">ExpenseReport.fs</ProjectItem>
+      </Folder>
+      <Folder Name="RemoteFacade" TargetFolderName="RemoteFacade">
+        <ProjectItem ReplaceParameters="false" TargetFileName="ExpenseReportServiceFacade.fs">ExpenseReportServiceFacade.fs</ProjectItem>
+      </Folder>
+      <Folder Name="ViewModel" TargetFolderName="ViewModel">
+        <ProjectItem ReplaceParameters="false" TargetFileName="RelayCommand.fs">RelayCommand.fs</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="ViewModelBase.fs">ViewModelBase.fs</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="ExpenseItHomeViewModel.fs">ExpenseItHomeViewModel.fs</ProjectItem>
+      </Folder>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
