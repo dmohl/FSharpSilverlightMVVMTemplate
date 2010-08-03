@@ -1,11 +1,10 @@
 <VSTemplate Version="2.0.0" Type="ProjectGroup"
     xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
     <TemplateData>
-        <Name>F# Silverlight Application (MVVM)</Name>
-        <Description>F# Silverlight Application (MVVM)</Description>
+        <Name>F# and C# Web Application (Silverlight, MVVM)</Name>
+        <Description>F# and C# Web Application (Silverlight, MVVM)</Description>
         <Icon>__TemplateIcon.ico</Icon>
         <ProjectType>FSharp</ProjectType>
-		<ProjectSubType>Silverlight</ProjectSubType>
     </TemplateData>
     <TemplateContent>
         <ProjectCollection>
