@@ -17,3 +17,7 @@ C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mo
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Application (Silverlight, MVVM)\1.1\\FSharpSilverlight.png
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Application (Silverlight, MVVM)\1.1\\MicrosoftPublicLicense.txt
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Application (Silverlight, MVVM)\1.1\ProjectTemplates\\FSharpSLMvvm.zip
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web App (Silverlight)\1.1\\extension.vsixmanifest
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web App (Silverlight)\1.1\\FSharpSilverlight.png
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web App (Silverlight)\1.1\\MicrosoftPublicLicense.txt
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web App (Silverlight)\1.1\ProjectTemplates\Silverlight\\FSharpSLMvvm.zip
