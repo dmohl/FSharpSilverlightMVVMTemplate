@@ -1,0 +1,31 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="d:Miscellaneous Files/f:View.csproj/l:C!?git?FSharpSilverlightMVVMTemplate?src?View?View.csproj" caret="1021" fromTop="0" />
+      <File id="d:Miscellaneous Files/f:Core.fsproj/l:C!?git?FSharpSilverlightMvvmTemplate?src?Core?Core.fsproj" caret="3616" fromTop="7" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="d:Miscellaneous Files/f:View.csproj/l:C!?git?FSharpSilverlightMVVMTemplate?src?View?View.csproj" caret="1021" fromTop="16" />
+      <File id="d:Miscellaneous Files/f:Core.fsproj/l:C!?git?FSharpSilverlightMvvmTemplate?src?Core?Core.fsproj" caret="708" fromTop="12" />
+      <File id="d:Miscellaneous Files/f:Core.fsproj/l:C!?git?FSharpSilverlightMvvmTemplate?src?Core?Core.fsproj" caret="2236" fromTop="5" />
+      <File id="d:Miscellaneous Files/f:Core.fsproj/l:C!?git?FSharpSilverlightMvvmTemplate?src?Core?Core.fsproj" caret="3616" fromTop="7" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.9\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
