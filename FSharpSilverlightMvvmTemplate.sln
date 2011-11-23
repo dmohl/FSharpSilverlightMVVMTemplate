@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSharpSLMvvm", "VSIX\FSharp
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Core", "src\Core\Core.fsproj", "{BDD75D20-F328-4316-9D71-15477CDD6DBB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VSIX", "VSIX", "{D5639D20-DB80-4794-8A1F-2B07BC27F8D8}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSSLAppTemplateWizard", "TemplateWizard\FSSLAppTemplateWizard.fsproj", "{BD7AF5DA-25B8-41FA-A0E8-7A277BD65673}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FsSlAppDialog", "TemplateDialog\FsSlAppDialog.csproj", "{9EC3CEC7-7B86-405B-BC41-0306588B693C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,8 +31,21 @@ Global
 		{BDD75D20-F328-4316-9D71-15477CDD6DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDD75D20-F328-4316-9D71-15477CDD6DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDD75D20-F328-4316-9D71-15477CDD6DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD7AF5DA-25B8-41FA-A0E8-7A277BD65673}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD7AF5DA-25B8-41FA-A0E8-7A277BD65673}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD7AF5DA-25B8-41FA-A0E8-7A277BD65673}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD7AF5DA-25B8-41FA-A0E8-7A277BD65673}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EC3CEC7-7B86-405B-BC41-0306588B693C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC3CEC7-7B86-405B-BC41-0306588B693C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC3CEC7-7B86-405B-BC41-0306588B693C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC3CEC7-7B86-405B-BC41-0306588B693C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7F01383A-AC32-472E-9223-AAC24E0B5384} = {D5639D20-DB80-4794-8A1F-2B07BC27F8D8}
+		{BD7AF5DA-25B8-41FA-A0E8-7A277BD65673} = {D5639D20-DB80-4794-8A1F-2B07BC27F8D8}
+		{9EC3CEC7-7B86-405B-BC41-0306588B693C} = {D5639D20-DB80-4794-8A1F-2B07BC27F8D8}
 	EndGlobalSection
 EndGlobal

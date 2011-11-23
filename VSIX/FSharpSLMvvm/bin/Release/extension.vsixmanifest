@@ -25,6 +25,8 @@
   </Identifier>
   <References />
   <Content>
+    <Assembly AssemblyName="FSSLAppTemplateWizard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=ba79043a32149735">FSSLAppTemplateWizard.dll</Assembly>
+    <Assembly AssemblyName="FsSlAppDialog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6db65b46e659a2ac">FsSlAppDialog.dll</Assembly>
     <ProjectTemplate>ProjectTemplates</ProjectTemplate>
   </Content>
 </Vsix>

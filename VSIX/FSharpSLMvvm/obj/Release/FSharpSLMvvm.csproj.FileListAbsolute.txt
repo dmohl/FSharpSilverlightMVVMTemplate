@@ -7,3 +7,7 @@ C:\git\FSharpSilverlightMvvmTemplate\VSIX\FSharpSLMvvm\obj\Release\extension.vsi
 C:\git\FSharpSilverlightMvvmTemplate\VSIX\FSharpSLMvvm\bin\Release\MicrosoftPublicLicense.txt
 C:\git\FSharpSilverlightMvvmTemplate\VSIX\FSharpSLMvvm\bin\Release\FSharpSilverlight.png
 C:\git\FSharpSilverlightMvvmTemplate\VSIX\FSharpSLMvvm\bin\Release\ProjectTemplates\Silverlight\FSharpSLMvvm.zip
+C:\git\FSharpSilverlightMVVMTemplate\VSIX\FSharpSLMvvm\bin\Release\FSSLAppTemplateWizard.dll
+C:\git\FSharpSilverlightMVVMTemplate\VSIX\FSharpSLMvvm\bin\Release\FSSLAppTemplateWizard.pdb
+C:\git\FSharpSilverlightMVVMTemplate\VSIX\FSharpSLMvvm\bin\Release\FsSlAppDialog.dll
+C:\git\FSharpSilverlightMVVMTemplate\VSIX\FSharpSLMvvm\bin\Release\FsSlAppDialog.pdb

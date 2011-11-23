@@ -1,0 +1,8 @@
+C:\git\FSharpSilverlightMVVMTemplate\TemplateWizard\obj\Release\ResolveAssemblyReference.cache
+C:\git\FSharpSilverlightMVVMTemplate\TemplateWizard\bin\Release\TemplateWizard.XML
+C:\git\FSharpSilverlightMVVMTemplate\TemplateWizard\bin\Release\FSSLAppTemplateWizard.dll
+C:\git\FSharpSilverlightMVVMTemplate\TemplateWizard\bin\Release\FSSLAppTemplateWizard.pdb
+C:\git\FSharpSilverlightMVVMTemplate\TemplateWizard\obj\Release\FSSLAppTemplateWizard.dll
+C:\git\FSharpSilverlightMVVMTemplate\TemplateWizard\obj\Release\FSSLAppTemplateWizard.pdb
+C:\git\FSharpSilverlightMVVMTemplate\TemplateWizard\bin\Release\FsSlAppDialog.dll
+C:\git\FSharpSilverlightMVVMTemplate\TemplateWizard\bin\Release\FsSlAppDialog.pdb

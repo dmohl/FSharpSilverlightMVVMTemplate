@@ -25,6 +25,8 @@
   </Identifier>
   <References />
   <Content>
+    <Assembly AssemblyName="|FSSLAppTemplateWizard;AssemblyName|">|FSSLAppTemplateWizard|</Assembly>
+    <Assembly AssemblyName="|FsSlAppDialog;AssemblyName|">|FsSlAppDialog|</Assembly>
     <ProjectTemplate>ProjectTemplates</ProjectTemplate>
   </Content>
 </Vsix>

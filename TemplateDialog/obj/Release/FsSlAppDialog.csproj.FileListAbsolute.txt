@@ -1,0 +1,12 @@
+C:\git\FSharpSilverlightMVVMTemplate\TemplateDialog\bin\Release\FsSlAppDialog.dll
+C:\git\FSharpSilverlightMVVMTemplate\TemplateDialog\bin\Release\FsSlAppDialog.pdb
+C:\git\FSharpSilverlightMVVMTemplate\TemplateDialog\obj\Release\ResolveAssemblyReference.cache
+C:\git\FSharpSilverlightMVVMTemplate\TemplateDialog\obj\Release\TemplateWizardDialog.baml
+C:\git\FSharpSilverlightMVVMTemplate\TemplateDialog\obj\Release\TemplateWizardDialog.g.cs
+C:\git\FSharpSilverlightMVVMTemplate\TemplateDialog\obj\Release\FsSlAppDialog_MarkupCompile.cache
+C:\git\FSharpSilverlightMVVMTemplate\TemplateDialog\obj\Release\FsSlAppDialog.g.resources
+C:\git\FSharpSilverlightMVVMTemplate\TemplateDialog\obj\Release\FsSlAppDialog.Properties.Resources.resources
+C:\git\FSharpSilverlightMVVMTemplate\TemplateDialog\obj\Release\GenerateResource.read.1.tlog
+C:\git\FSharpSilverlightMVVMTemplate\TemplateDialog\obj\Release\GenerateResource.write.1.tlog
+C:\git\FSharpSilverlightMVVMTemplate\TemplateDialog\obj\Release\FsSlAppDialog.dll
+C:\git\FSharpSilverlightMVVMTemplate\TemplateDialog\obj\Release\FsSlAppDialog.pdb
