@@ -9,26 +9,22 @@
   <RecentFiles>
     <RecentFiles>
       <File id="7F01383A-AC32-472E-9223-AAC24E0B5384/f:MicrosoftPublicLicense.txt" caret="533" fromTop="10" />
-      <File id="d:Miscellaneous Files/f:Core.fsproj/l:C!?git?FSharpSilverlightMvvmTemplate?src?Core?Core.fsproj" caret="636" fromTop="11" />
-      <File id="d:Miscellaneous Files/f:View.csproj/l:C!?git?FSharpSilverlightMVVMTemplate?src?View?View.csproj" caret="938" fromTop="15" />
-      <File id="9EC3CEC7-7B86-405B-BC41-0306588B693C/f:TemplateWizardDialog.xaml.cs" caret="408" fromTop="15" />
       <File id="9EC3CEC7-7B86-405B-BC41-0306588B693C/f:TemplateWizardDialog.xaml" caret="1287" fromTop="4" />
-      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:FSSLAppTemplateWizard.fs" caret="1972" fromTop="1" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:FSSLAppTemplateWizard.fs" caret="2058" fromTop="3" />
+      <File id="9EC3CEC7-7B86-405B-BC41-0306588B693C/f:TemplateWizardDialog.xaml.cs" caret="408" fromTop="15" />
     </RecentFiles>
     <RecentEdits>
       <File id="7F01383A-AC32-472E-9223-AAC24E0B5384/f:MicrosoftPublicLicense.txt" caret="0" fromTop="0" />
-      <File id="d:Miscellaneous Files/f:Core.fsproj/l:C!?git?FSharpSilverlightMvvmTemplate?src?Core?Core.fsproj" caret="636" fromTop="11" />
-      <File id="d:Miscellaneous Files/f:View.csproj/l:C!?git?FSharpSilverlightMVVMTemplate?src?View?View.csproj" caret="5477" fromTop="12" />
       <File id="9EC3CEC7-7B86-405B-BC41-0306588B693C/f:TemplateWizardDialog.xaml" caret="154" fromTop="2" />
       <File id="9EC3CEC7-7B86-405B-BC41-0306588B693C/f:TemplateWizardDialog.xaml" caret="1166" fromTop="5" />
       <File id="9EC3CEC7-7B86-405B-BC41-0306588B693C/f:TemplateWizardDialog.xaml.cs" caret="408" fromTop="12" />
-      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:FSSLAppTemplateWizard.fs" caret="2881" fromTop="17" />
-      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:FSSLAppTemplateWizard.fs" caret="2344" fromTop="16" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:FSSLAppTemplateWizard.fs" caret="2890" fromTop="17" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:FSSLAppTemplateWizard.fs" caret="2353" fromTop="16" />
       <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:FSSLAppTemplateWizard.fs" caret="214" fromTop="8" />
       <File id="9EC3CEC7-7B86-405B-BC41-0306588B693C/f:TemplateWizardDialog.xaml" caret="1287" fromTop="4" />
       <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:FSSLAppTemplateWizard.fs" caret="62" fromTop="3" />
-      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:FSSLAppTemplateWizard.fs" caret="2461" fromTop="8" />
-      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:FSSLAppTemplateWizard.fs" caret="1972" fromTop="1" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:FSSLAppTemplateWizard.fs" caret="2470" fromTop="8" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:FSSLAppTemplateWizard.fs" caret="2058" fromTop="3" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
