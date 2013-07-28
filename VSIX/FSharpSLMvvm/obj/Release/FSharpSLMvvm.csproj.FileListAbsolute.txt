@@ -11,3 +11,16 @@ C:\git\FSharpSilverlightMVVMTemplate\VSIX\FSharpSLMvvm\bin\Release\FSSLAppTempla
 C:\git\FSharpSilverlightMVVMTemplate\VSIX\FSharpSLMvvm\bin\Release\FSSLAppTemplateWizard.pdb
 C:\git\FSharpSilverlightMVVMTemplate\VSIX\FSharpSLMvvm\bin\Release\FsSlAppDialog.dll
 C:\git\FSharpSilverlightMVVMTemplate\VSIX\FSharpSLMvvm\bin\Release\FsSlAppDialog.pdb
+C:\Users\dmohl\Documents\GitHub\FSharpSilverlightMVVMTemplate\VSIX\FSharpSLMvvm\bin\Release\FSharpSilverlight.png
+C:\Users\dmohl\Documents\GitHub\FSharpSilverlightMVVMTemplate\VSIX\FSharpSLMvvm\bin\Release\MicrosoftPublicLicense.txt
+C:\Users\dmohl\Documents\GitHub\FSharpSilverlightMVVMTemplate\VSIX\FSharpSLMvvm\bin\Release\ProjectTemplates\Silverlight\FSharpSLMvvm.zip
+C:\Users\dmohl\Documents\GitHub\FSharpSilverlightMVVMTemplate\VSIX\FSharpSLMvvm\bin\Release\FSharpSLMvvm.vsix
+C:\Users\dmohl\Documents\GitHub\FSharpSilverlightMVVMTemplate\VSIX\FSharpSLMvvm\bin\Release\extension.vsixmanifest
+C:\Users\dmohl\Documents\GitHub\FSharpSilverlightMVVMTemplate\VSIX\FSharpSLMvvm\bin\Release\FsSlAppDialog.dll
+C:\Users\dmohl\Documents\GitHub\FSharpSilverlightMVVMTemplate\VSIX\FSharpSLMvvm\bin\Release\FSSLAppTemplateWizard.dll
+C:\Users\dmohl\Documents\GitHub\FSharpSilverlightMVVMTemplate\VSIX\FSharpSLMvvm\bin\Release\FsSlAppDialog.pdb
+C:\Users\dmohl\Documents\GitHub\FSharpSilverlightMVVMTemplate\VSIX\FSharpSLMvvm\bin\Release\FSSLAppTemplateWizard.pdb
+C:\Users\dmohl\Documents\GitHub\FSharpSilverlightMVVMTemplate\VSIX\FSharpSLMvvm\obj\Release\FSharpSLMvvm.csprojResolveAssemblyReference.cache
+C:\Users\dmohl\Documents\GitHub\FSharpSilverlightMVVMTemplate\VSIX\FSharpSLMvvm\obj\Release\FSharpSLMvvm.dll
+C:\Users\dmohl\Documents\GitHub\FSharpSilverlightMVVMTemplate\VSIX\FSharpSLMvvm\obj\Release\FSharpSLMvvm.pdb
+C:\Users\dmohl\Documents\GitHub\FSharpSilverlightMVVMTemplate\VSIX\FSharpSLMvvm\obj\Release\extension.vsixmanifest

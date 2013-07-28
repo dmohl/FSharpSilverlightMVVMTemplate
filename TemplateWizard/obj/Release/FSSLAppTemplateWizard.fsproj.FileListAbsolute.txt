@@ -6,3 +6,11 @@ C:\git\FSharpSilverlightMVVMTemplate\TemplateWizard\obj\Release\FSSLAppTemplateW
 C:\git\FSharpSilverlightMVVMTemplate\TemplateWizard\obj\Release\FSSLAppTemplateWizard.pdb
 C:\git\FSharpSilverlightMVVMTemplate\TemplateWizard\bin\Release\FsSlAppDialog.dll
 C:\git\FSharpSilverlightMVVMTemplate\TemplateWizard\bin\Release\FsSlAppDialog.pdb
+C:\Users\dmohl\Documents\GitHub\FSharpSilverlightMVVMTemplate\TemplateWizard\bin\Release\TemplateWizard.XML
+C:\Users\dmohl\Documents\GitHub\FSharpSilverlightMVVMTemplate\TemplateWizard\bin\Release\FSSLAppTemplateWizard.dll
+C:\Users\dmohl\Documents\GitHub\FSharpSilverlightMVVMTemplate\TemplateWizard\bin\Release\FSSLAppTemplateWizard.pdb
+C:\Users\dmohl\Documents\GitHub\FSharpSilverlightMVVMTemplate\TemplateWizard\bin\Release\FsSlAppDialog.dll
+C:\Users\dmohl\Documents\GitHub\FSharpSilverlightMVVMTemplate\TemplateWizard\bin\Release\FsSlAppDialog.pdb
+C:\Users\dmohl\Documents\GitHub\FSharpSilverlightMVVMTemplate\TemplateWizard\obj\Release\FSSLAppTemplateWizard.fsprojResolveAssemblyReference.cache
+C:\Users\dmohl\Documents\GitHub\FSharpSilverlightMVVMTemplate\TemplateWizard\obj\Release\FSSLAppTemplateWizard.dll
+C:\Users\dmohl\Documents\GitHub\FSharpSilverlightMVVMTemplate\TemplateWizard\obj\Release\FSSLAppTemplateWizard.pdb
